@@ -1,0 +1,11 @@
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb

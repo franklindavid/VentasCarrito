@@ -84,3 +84,9 @@ F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\
 F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
 F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
 F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb

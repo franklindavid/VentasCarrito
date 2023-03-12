@@ -1,0 +1,6 @@
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\Proyectos_web\asp.net\VentasCarrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
